@@ -4201,13 +4201,13 @@ Where
 <ListItem>
 
 <Para>
-inet addr:10.144.153.10 is the IP number of your end of the link.
+inet addr:10.144.153.104 is the IP number of your end of the link.
 </Para>
 </ListItem>
 <ListItem>
 
 <Para>
-P-t-P:10.144.153.5 is the SERVER's IP number.
+P-t-P:10.144.153.51 is the SERVER's IP number.
 </Para>
 </ListItem>
 
